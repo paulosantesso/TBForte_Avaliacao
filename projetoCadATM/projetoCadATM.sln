@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "projetoCadATM", "projetoCadATM\", "{46490BF4-23B4-4435-ACB3-245E2147B3BA}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.1"
+		ProjectReferences = "{61979b61-b599-4a29-9991-2eba71384a80}|CadATM.BLL.dll;{dcfcfb4c-29b7-4cc2-9bc3-b0d5796c4449}|CadATM.DTO.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_61380"
+		Debug.AspNetCompiler.PhysicalPath = "projetoCadATM\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61380\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_61380"
+		Release.AspNetCompiler.PhysicalPath = "projetoCadATM\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_61380\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61380"
+		SlnRelativePath = "projetoCadATM\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadATM.BLL", "CadATM.BLL\CadATM.BLL.csproj", "{61979B61-B599-4A29-9991-2EBA71384A80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CadATM.DTO", "CadATM.DTO\CadATM.DTO.csproj", "{DCFCFB4C-29B7-4CC2-9BC3-B0D5796C4449}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46490BF4-23B4-4435-ACB3-245E2147B3BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46490BF4-23B4-4435-ACB3-245E2147B3BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46490BF4-23B4-4435-ACB3-245E2147B3BA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{46490BF4-23B4-4435-ACB3-245E2147B3BA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{61979B61-B599-4A29-9991-2EBA71384A80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61979B61-B599-4A29-9991-2EBA71384A80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61979B61-B599-4A29-9991-2EBA71384A80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61979B61-B599-4A29-9991-2EBA71384A80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFCFB4C-29B7-4CC2-9BC3-B0D5796C4449}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFCFB4C-29B7-4CC2-9BC3-B0D5796C4449}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFCFB4C-29B7-4CC2-9BC3-B0D5796C4449}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFCFB4C-29B7-4CC2-9BC3-B0D5796C4449}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F49C432C-DEAF-4931-9A71-152523DE7BE9}
+	EndGlobalSection
+EndGlobal
