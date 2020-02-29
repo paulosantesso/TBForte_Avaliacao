@@ -1,0 +1,9 @@
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\bin\Debug\netstandard2.0\CadATM.DTO.deps.json
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\bin\Debug\netstandard2.0\CadATM.DTO.dll
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\bin\Debug\netstandard2.0\CadATM.DTO.pdb
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\obj\Debug\netstandard2.0\CadATM.DTO.csproj.CoreCompileInputs.cache
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\obj\Debug\netstandard2.0\CadATM.DTO.AssemblyInfoInputs.cache
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\obj\Debug\netstandard2.0\CadATM.DTO.AssemblyInfo.cs
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\obj\Debug\netstandard2.0\CadATM.DTO.dll
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\obj\Debug\netstandard2.0\CadATM.DTO.pdb
+E:\temp\projetoCadATM\projetoCadATM\CadATM.DTO\obj\Debug\netstandard2.0\CadATM.DTO.csprojAssemblyReference.cache
